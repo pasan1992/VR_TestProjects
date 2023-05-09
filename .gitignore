@@ -2,13 +2,28 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/SwordPlayVR/[Ll]ibrary/
+/SwordPlayVR/[Tt]emp/
+/SwordPlayVR/[Oo]bj/
+/SwordPlayVR/[Bb]uild/
+/SwordPlayVR/[Bb]uilds/
+/SwordPlayVR/[Ll]ogs/
+/SwordPlayVR/[Mm]emoryCaptures/
+/New_IK/[Ll]ibrary/
+/New_IK/[Ll]ibrary/
+/New_IK/[Tt]emp/
+/New_IK/[Oo]bj/
+/New_IK/[Bb]uild/
+/New_IK/[Bb]uilds/
+/New_IK/[Ll]ogs/
+/New_IK/[Mm]emoryCaptures/
+/VR Interative Framework/[Ll]ibrary/
+/VR Interative Framework/[Tt]emp/
+/VR Interative Framework/[Oo]bj/
+/VR Interative Framework/[Bb]uild/
+/VR Interative Framework/[Bb]uilds/
+/VR Interative Framework/[Ll]ogs/
+/VR Interative Framework/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
